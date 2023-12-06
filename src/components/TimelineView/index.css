@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.timeline-paragraph {
+  text-align: center;
+  font-family: 'Roboto';
+}
+.timeline-heading {
+  text-align: center;
+  font-family: 'Roboto';
+  color: #171f46;
+}

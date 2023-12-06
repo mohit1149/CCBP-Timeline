@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container-project {
+}
+.small-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.font-icon {
+  font-size: 15px;
+}
+.course-description {
+  font-weight: 600;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+.list-tab-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+.list-item {
+  list-style-type: none;
+  background-color: skyblue;
+  font-family: 'Roboto';
+  font-weight: 700;
+  padding: 7px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
